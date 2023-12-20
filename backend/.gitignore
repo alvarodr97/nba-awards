@@ -1,0 +1,11 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Flask
+.idea/
+.vscode/
+__pycache__/
+.tox/
+htmlcov/
+docs/_build/
+dist/
+venv/
